@@ -3,7 +3,7 @@
 Project Overview: During my 3rd semester, my colleagues and I developed a Bird Species Classification Application utilizing Convolutional Neural Networks (CNN). 
 This application was designed to accurately classify birds into five distinct species: Broadbill, Eagle, Owl, Parrot, and Woodpecker. The image dataset consist of 560 images, 420 for training and 140 for testing.
 
-Technologies Used: Convolutional Neural Networks (CNN), Python, Jupyter Notebook, TensorFlow, Keras, matplotlib, numpy, tkinter, pygame
+Technologies Used: Convolutional Neural Networks (CNN), Python, Jupyter Notebook, TensorFlow, Keras, Matplotlib, NumPy, Tkinter, Pygame
 
 Key Features:
 
