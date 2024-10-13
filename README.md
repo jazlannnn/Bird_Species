@@ -18,6 +18,9 @@ Image Augmentation: Applied techniques such as rotation, flipping, and scaling t
 
 Model Evaluation: Assessed model performance using metrics like accuracy, precision, and recall, and visualized results with Matplotlib to identify areas for improvement.
 
+This project significantly enhanced my understanding of machine learning, particularly in image classification using CNNs and deep learning frameworks like TensorFlow and Keras. 
+I also gained hands-on experience in Python programming, data visualization, and UI development, which strengthened my technical proficiency and problem-solving skills.
+
 ## Screenshot of the Application
 
 ![Screenshot 2024-10-13 035324](https://github.com/user-attachments/assets/1a7fe1bd-9149-494a-94ea-28cc5aac373e)
