@@ -1,19 +1,22 @@
 # Bird Species Classification Application
 
-Project Overview: During my 3rd semester, my colleagues and I developed a Bird Species Classification Application utilizing Convolutional Neural Networks (CNN). 
-This application was designed to accurately classify birds into five distinct species: Broadbill, Eagle, Owl, Parrot, and Woodpecker. The image dataset consist of 560 images, 420 for training and 140 for testing.
+Project Overview: During my 3rd semester, my colleagues and I developed a Bird Species Classification Application using Convolutional Neural Networks (CNN). 
+This application was designed to accurately classify bird images into five distinct species: Broadbill, Eagle, Owl, Parrot, and Woodpecker. 
+The image dataset consisted of 560 images, with 420 images used for training and 140 for testing, ensuring a balanced and comprehensive approach to model development and evaluation.
 
 Technologies Used: Convolutional Neural Networks (CNN), Python, Jupyter Notebook, TensorFlow, Keras, Matplotlib, NumPy, Tkinter, Pygame
 
-Key Features:
+Key Features and Achievements
 
-Machine Learning: Implemented CNN, a deep learning technique, to train and classify bird species based on image data.
+Machine Learning Implementation: Built and optimized a CNN model to classify bird species with high accuracy based on the provided image data.
 
-Python and TensorFlow: Leveraged Python and TensorFlow for developing and training the model within the Jupyter Notebook environment.
+Python & Deep Learning Integration: Combined Python with TensorFlow and Keras to design, train, and fine-tune the model, improving its performance over multiple iterations.
 
-Image Classification: Successfully categorized bird species with a focus on improving model accuracy and performance.
+User Interface Development: Developed an intuitive interface using Tkinter, allowing users to upload images and view classification results instantly.
 
-This project enhanced my understanding of machine learning, specifically in the areas of image classification and neural networks, while also sharpening my skills in Python programming and the use of deep learning frameworks.
+Image Augmentation: Applied techniques such as rotation, flipping, and scaling to augment the training dataset, enhancing model robustness and generalization.
+
+Model Evaluation: Assessed model performance using metrics like accuracy, precision, and recall, and visualized results with Matplotlib to identify areas for improvement.
 
 ## Screenshot of the Application
 
