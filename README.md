@@ -1,6 +1,6 @@
 # Bird Species Classification Application
 
-Project Overview: During my 3rd semester, my colleagues and I developed a Bird Species Classification Application using Convolutional Neural Networks (CNN). 
+Project Overview: During my 3rd semester of Degree, my colleagues and I developed a Bird Species Classification Application using Convolutional Neural Networks (CNN). 
 This application was designed to accurately classify bird images into five distinct species: Broadbill, Eagle, Owl, Parrot, and Woodpecker. 
 The image dataset consisted of 560 images, with 420 images used for training and 140 for testing, ensuring a balanced and comprehensive approach to model development and evaluation.
 
